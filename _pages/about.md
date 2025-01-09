@@ -6,13 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+\n
 Yang Liang (梁阳) is now a lecturer in the Department of Art & Design, Guilin University of Electronic Technology, Guilin, Guangxi, China. 
-1. Research Interest:
+1. Research Interest
 
-2. Education Background:
+2. Education Background
 
-3. 
+3. Publications
+
+
 梁阳，现任桂林电子科技大学艺术与设计学院讲师。
 
 
