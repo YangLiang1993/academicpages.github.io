@@ -15,7 +15,6 @@ Yang Liang (梁阳) is now a lecturer in the Department of Art & Design, Guilin 
 3. Publications
 
 
-梁阳，现任。
 
 1. 研究兴趣
 
@@ -47,13 +46,14 @@ Yang Liang (梁阳) is now a lecturer in the Department of Art & Design, Guilin 
               建筑与建成环境学院 城市设计系 客座研究员
 
 6. 学术著作
+
 Liang, Y., D’Uva, D., Scandiffio, A., Rolando, A., 2022. The more walkable, the more livable? -- can urban attractiveness improve urban vitality? Transportation Research Procedia 60, 322–329. https://doi.org/10.1016/j.trpro.2021.12.042
 
-7. 主要设计实践
+8. 主要设计实践
 ·  上海博物馆东馆新建工程（国家“十三五”上海市建设重大文化项目)
     同济大学建筑设计研究院（集团）有限公司 2017-2019 建筑设计 参与者
 ·  二里头夏都遗址博物馆新建工程（国家“十三五”重大文化工程项目）
     同济大学建筑设计研究院若本建筑工作室 2016-2019 建筑设计 参与者
 
-8. 学术任职
+9. 学术任职
 
