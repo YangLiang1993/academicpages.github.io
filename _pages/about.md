@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-\n
+
 Yang Liang (梁阳) is now a lecturer in the Department of Art & Design, Guilin University of Electronic Technology, Guilin, Guangxi, China. 
 1. Research Interest
 
@@ -18,11 +18,14 @@ Yang Liang (梁阳) is now a lecturer in the Department of Art & Design, Guilin 
 梁阳，现任桂林电子科技大学艺术与设计学院讲师。
 
 1. 研究兴趣
+
 ·  城市设计中的机器学习应用：基于Python编程语言，采用高级机器学习模型，探索其在城市设计和城市活力中的应用，实现智能化城市规划与决策支持。
+
 ·  城市数据科学与可视化：擅长运用多元城市大数据进行深入的数据挖掘与分析，通过高效的数据可视化技术，提升城市设计与评估的准确性和实用性。
+
 ·  基于AI的城市宜居性分析：利用ArcGIS和人工智能技术进行定量城市分析，专注于城市空间可步行性和宜居环境因素，推动创建更具活力和人性化的人居环境。
 
-2. 教育背景
+3. 教育背景
 2011-2016 上海交通大学（QS综合排名51，建筑学排名44）
            船舶海洋与建筑工程学院 建筑学系 建筑学学士（五年制）（优秀毕业设计，优秀毕业生）
 2016-2019 同济大学（QS建筑学排名13）
