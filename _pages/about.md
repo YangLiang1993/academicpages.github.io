@@ -18,7 +18,7 @@ lecturer in the Department of Art & Design, Guilin University of Electronic Tech
 
 
 
-1. 研究兴趣
+#**1. 研究兴趣**
 
 ·  城市设计中的机器学习应用：基于Python编程语言，采用高级机器学习模型，探索其在城市设计和城市活力中的应用，实现智能化城市规划与决策支持。
 
