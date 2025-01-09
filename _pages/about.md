@@ -45,20 +45,16 @@ lecturer in the Department of Art & Design, Guilin University of Electronic Tech
 
 2024-     任桂林电子科技大学艺术与设计学院讲师
 
-
-
-
-
-
-6. 学术著作
+3. 学术著作
 
 Liang, Y., D’Uva, D., Scandiffio, A., Rolando, A., 2022. The more walkable, the more livable? -- can urban attractiveness improve urban vitality? Transportation Research Procedia 60, 322–329. https://doi.org/10.1016/j.trpro.2021.12.042
 
-8. 主要设计实践
+4. 主要设计实践
 ·  上海博物馆东馆新建工程（国家“十三五”上海市建设重大文化项目)
     同济大学建筑设计研究院（集团）有限公司 2017-2019 建筑设计 参与者
 ·  二里头夏都遗址博物馆新建工程（国家“十三五”重大文化工程项目）
     同济大学建筑设计研究院若本建筑工作室 2016-2019 建筑设计 参与者
 
-9. 学术任职
-
+5. 学术任职
+国际会议：City+ 2021 International Conference 组委会核心成员
+Journal of Urban Affairs 审稿人
