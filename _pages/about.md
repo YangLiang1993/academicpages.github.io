@@ -15,7 +15,7 @@ Yang Liang (梁阳) is now a lecturer in the Department of Art & Design, Guilin 
 3. Publications
 
 
-梁阳，现任桂林电子科技大学艺术与设计学院讲师。
+梁阳，现任。
 
 1. 研究兴趣
 
@@ -35,6 +35,8 @@ Yang Liang (梁阳) is now a lecturer in the Department of Art & Design, Guilin 
 
 2019-2024 意大利米兰理工大学（QS综合排名123，建筑学排名7）
           建筑与城市研究学院（DAStU） 城市规划，设计与政策博士（优秀博士毕业）
+
+2024-     任桂林电子科技大学艺术与设计学院讲师
 
 4. 国际交流
 
