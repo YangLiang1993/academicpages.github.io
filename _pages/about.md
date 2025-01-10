@@ -30,7 +30,7 @@ lecturer in the Department of Art & Design, Guilin University of Electronic Tech
 
 <p style="font-size: 18px;">
 · 2011-2016 上海交通大学（QS综合排名51，建筑学排名44）<br>
-            船舶海洋与建筑工程学院 建筑学系 建筑学学士（五年制）（优秀毕业设计，优秀毕业生）<br><br>
+  船舶海洋与建筑工程学院 建筑学系 建筑学学士（五年制）（优秀毕业设计，优秀毕业生）<br><br>
   
 2016-2019 同济大学（QS建筑学排名13）<br>
 建筑与城市规划学院 建筑系 建筑学硕士（优秀硕士论文提名）<br><br>
