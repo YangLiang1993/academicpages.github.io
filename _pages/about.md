@@ -43,7 +43,8 @@ lecturer in the Department of Art & Design, Guilin University of Electronic Tech
 2022.3-2022.8 荷兰代尔夫特理工大学 （QS综合排名47，建筑学排名3）<br>
 建筑与建成环境学院 城市设计系 客座研究员<br>
 
-2024-     任桂林电子科技大学艺术与设计学院讲师</p>
+2024-     任桂林电子科技大学艺术与设计学院讲师 </p>
+
 
 ## **3. 学术著作**
 
