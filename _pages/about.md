@@ -45,7 +45,6 @@ lecturer in the Department of Art & Design, Guilin University of Electronic Tech
 
 2024-     任桂林电子科技大学艺术与设计学院讲师 </p>
 
-
 ## **3. 学术著作**
 
 Liang, Y., D’Uva, D., Scandiffio, A., Rolando, A., 2022. The more walkable, the more livable? -- can urban attractiveness improve urban vitality? Transportation Research Procedia 60, 322–329. https://doi.org/10.1016/j.trpro.2021.12.042
